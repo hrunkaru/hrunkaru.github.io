@@ -1,3 +1,3 @@
 # Web
 ## SSL / certificates
-- https://www.ssllabs.com/ssltest/
+- <https://www.ssllabs.com/ssltest/>
