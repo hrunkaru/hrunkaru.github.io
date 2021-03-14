@@ -20,3 +20,6 @@
 ## Deception
 - [WebLabyrinth](https://github.com/mayhemiclabs/weblabyrinth)
 
+
+# Rules and detection tools
+- [Sigma](https://github.com/SigmaHQ/sigma)
