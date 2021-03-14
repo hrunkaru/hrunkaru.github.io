@@ -19,6 +19,7 @@
 # Honeypots / Honeytokens / Deception
 ## Honeypot
 - [T-pot](https://github.com/telekom-security/tpotce)
+- [Modern Honey Network](https://github.com/pwnlandia/mhn)
 
 ## Honeytokens
 - [MimikatzHoneyToken](https://github.com/SMAPPER/MimikatzHoneyToken)
