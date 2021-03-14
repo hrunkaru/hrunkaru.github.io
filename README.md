@@ -5,4 +5,4 @@
 # [Security Bencmarks](SecBenchmark/links.md)
 
 # Tips and Tricks
-## [SSH]](tipstricks/ssh.md)
+## [SSH](tipstricks/ssh.md)
