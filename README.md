@@ -13,3 +13,11 @@
 # Commandline
 ## Unix terminal
 - [Explain shell commands tool](https://explainshell.com/)
+
+
+
+# Honeypots / Honeytokens / Deception
+## Honeypot
+- [T-pot](https://github.com/telekom-security/tpotce)
+# Deception
+- [WebLabyrinth](https://github.com/mayhemiclabs/weblabyrinth)
