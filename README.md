@@ -8,6 +8,7 @@
 ## [Memory Forensics](IRAnalysis/MemForensics.md)
 ## [tshark](IRAnalysis/tshark)
 ## [E-mail](IRAnalysis/email)
+## [Malware analysis](IRAnalysis/Malware.md)
 
 
 
