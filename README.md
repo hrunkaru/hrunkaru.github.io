@@ -6,7 +6,7 @@
 
 # IR, Analysis, Forensics
 ## [Memory Forensics](IRAnalysis/MemForensics.md)
-## [tshark](IRAnalysis/tshark)
+## [Network](IRAnalysis/network)
 ## [E-mail](IRAnalysis/email)
 ## [Malware analysis](IRAnalysis/Malware.md)
 
