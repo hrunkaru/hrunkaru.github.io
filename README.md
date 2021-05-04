@@ -9,6 +9,7 @@
 ## [Network](IRAnalysis/network)
 ## [E-mail](IRAnalysis/email)
 ## [Malware analysis](IRAnalysis/Malware.md)
+## [Scripting](IRAnalysis/Scripting.md)
 
 
 

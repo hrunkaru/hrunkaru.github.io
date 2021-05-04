@@ -3,12 +3,6 @@
 - <https://www.ssllabs.com/ssltest/>
 
 
-# Commandline
-## Unix terminal
-- [Explain shell commands tool](https://explainshell.com/)
-
-
-
 # Honeypots / Honeytokens / Deception
 ## Honeypot
 - [T-pot](https://github.com/telekom-security/tpotce)
