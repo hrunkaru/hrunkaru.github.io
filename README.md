@@ -1,7 +1,8 @@
 [View as web](https://hrunkaru.github.io/)
 
-# Blue Team Tools and Info
-[Links](bluetools/links.md)
+# [Blue Team Tools](bluetools/links.md)
+
+# Hardening and info
 [Windows](bluetools/windows.md)
 
 # [Security Bencmarks](SecBenchmark/links.md)
