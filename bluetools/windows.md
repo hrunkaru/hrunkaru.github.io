@@ -1,0 +1,1 @@
+[Administrative tools and logon types - credential exposure](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
