@@ -1,5 +1,5 @@
 ## General information
-- [Incident Response Consortium - IR Playbooks Gallery](https://www.incidentresponse.com/playbooks/)
+[Incident Response Consortium - IR Playbooks Gallery](https://www.incidentresponse.com/playbooks/)
 Not too detailed, but gives ideas when creating your own.
 
 
