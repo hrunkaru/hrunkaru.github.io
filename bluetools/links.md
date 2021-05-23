@@ -17,3 +17,11 @@
 
 # Rules and detection tools
 - [Sigma](https://github.com/SigmaHQ/sigma)
+
+
+# DNS and Domains
+- [Domain name permutation engine](https://github.com/elceef/dnstwist)
+- [Domain name permutation engine - online](https://dnstwist.it/)
+- [Domain name permutation engine - fork](https://github.com/thisismyrobot/dnstwister)
+- [Domain name permutation engine - fork / online](https://dnstwister.report/)
+- [Domain name permutation finder - different alphabet impersonations](https://holdintegrity.com/checker)

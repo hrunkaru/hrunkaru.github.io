@@ -7,13 +7,7 @@
 
 ## [Security Bencmarks](SecBenchmark/links.md)
 
-## IR, Analysis, Forensics
-### [Memory Forensics](IRAnalysis/MemForensics.md)
-### [Network](IRAnalysis/network)
-### [E-mail](IRAnalysis/email)
-### [Malware analysis](IRAnalysis/Malware.md)
-### [Scripting](IRAnalysis/Scripting.md)
-
+## [IR, Analysis, Forensics](IRAnalysis/IRAnalysis.md)
 
 
 ## Tips and Tricks
