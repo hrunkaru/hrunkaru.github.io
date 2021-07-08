@@ -3,7 +3,7 @@
 ## [Blue Team Tools](bluetools/links.md)
 
 ## Hardening and info
-[Windows](bluetools/windows.md)
+### [Windows](bluetools/windows.md)
 
 ## [Security Bencmarks](SecBenchmark/links.md)
 
