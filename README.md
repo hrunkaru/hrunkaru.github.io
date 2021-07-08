@@ -9,6 +9,7 @@
 
 ## [IR, Analysis, Forensics](IRAnalysis/IRAnalysis.md)
 
+## [Learning resources, CTFs etc](Learning-CTFs/index.md)
 
 ## Tips and Tricks
 ### [SSH](tipstricks/ssh.md)
